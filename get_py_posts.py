@@ -1,8 +1,6 @@
 import json
 import requests
 
-#TODO: sort news for no repeat in task 2!!!
-
 def keyword_search():
     url = 'https://api.vk.com/method/newsfeed.search'
     params = {
