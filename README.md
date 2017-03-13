@@ -7,7 +7,7 @@ After running result would be in file 'py_posts.json'.
 You could append new news into this file just running this script again    
 #### example usage:
     $python get_py_posts.py.py   
-    posts added into file 'py_posts.lson' 
+    posts added into file 'py_posts.json' 
 ***
 # 2. py_news_bot #
 Second script is a bot for telegram witch would send 1 random post from the first task after command "/python_news"
