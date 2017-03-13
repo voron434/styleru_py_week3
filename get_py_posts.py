@@ -40,5 +40,6 @@ if __name__ == "__main__":
             existing_python_posts.append(py_post)
     with open(path, mode="w") as output_file:
         json.dump(existing_python_posts, output_file)
+    print("posts added into file %s" % path)
 
 
