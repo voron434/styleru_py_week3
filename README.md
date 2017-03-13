@@ -16,6 +16,9 @@ Than print '/python_news' to your own bot.
 #### example usage:  
     $python py_news_bot.py
 than, in telegram:
+
+    /python news
+    
     Занимательное программирование на Python 
  
     1. Занимательное программирование на Python
